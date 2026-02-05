@@ -1,7 +1,7 @@
 ---
 title: Hello World
 ---
-# Greetings
+# 你好呀
 Welcome to *my* first website.
 
 ---
@@ -10,8 +10,8 @@ I know it's simple.
 Let's build it to a better **place**
 
 
-# Goodbye
+# 拜拜
 ## Time
-I know it's never been easy to farewell.
+再见捏
 ## Anouncement
-But now It's time to say goodbye.
+你是谁？
